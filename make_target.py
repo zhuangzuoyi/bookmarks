@@ -29,7 +29,7 @@ index_header="""<!DOCTYPE html>
 <div class="site">
   <div class="header">
     <div class="rotateID">
-        <h1 class="title">20170424</h1>
+        <h1 class="title">Chrome BookMarks</h1>
     </div>
   </div>
 
