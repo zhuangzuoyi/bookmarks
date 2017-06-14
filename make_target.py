@@ -139,7 +139,7 @@ def make_body_form_dict():
             print(ind)
             #print(url[0:ind]+"  :  "+url[ind+1:-1])
             if ind != -1:
-                con_of_ur = con_of_ur + "<li ><a href=\"" + url[ind+1:-1] +  "\">" + url[0:ind] + '</a></li>' + '\n'
+                con_of_ur = con_of_ur + "<li ><a href=\"" + url[ind+1:] +  "\">" + url[0:ind] + '</a></li>' + '\n'
                 print("add")
     return head_of_ur+con_of_ur+end_of_ur
 
