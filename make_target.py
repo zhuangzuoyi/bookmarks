@@ -16,7 +16,7 @@ index_header="""<!DOCTYPE html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>20170424</title>
+        <title>BookMarks</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
