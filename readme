@@ -4,3 +4,6 @@
     这是个用python实现的工具，用python读取chrome书签(现在使用的浏览器是chrome)，把书签里的内容提取出来，保存为html文件，用github同步，
     
 170614：修复url最后一字节丢失bug,
+
+用法：python make_target.py
+(chrome书签目录："C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\bookmarks")
